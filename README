@@ -1,0 +1,11 @@
+= README =
+
+Kazphysics3 is a really basic 2D physics engine (currently not working :))
+
+It's designed with the following concepts:
+
+1. World geometry is stationary, and made up of triangles.
+2. Anything that moves is instead an object (KP_Object)
+3. A KP_Object can be created as a Box, an Ellipse or a Point.
+
+
